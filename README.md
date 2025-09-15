@@ -24,18 +24,17 @@ Sketch is a full-featured e-commerce website specializing in premium bags. The p
 
 ## 🖼️ Screenshots Preview
 
-### 🏠 Homepage
-![Homepage](https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+### 🏠 LoginPage
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d830c5d-f33d-40d6-a320-0c4edd8eba85" />
 
-### 🎒 Product Listing
-![Products](https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+### 🎒 Product Feature
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/974a0941-f769-49fe-8921-53a373bc4788" />
 
-### 🛒 Shopping Cart
-![Cart](https://images.unsplash.com/photo-1607083206968-13611e3c69c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+## User Profile
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/155067c7-0821-466e-980a-4f74159e5513" />
 
-### ⚙️ Admin Dashboard
-![Admin Dashboard](https://images.unsplash.com/photo-1605902711622-cfb43c4437d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
-
+### 🛒 Order Page
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cc12e662-35b8-4764-ba0c-b886758d8022" />
 
 ## Features
 
@@ -123,5 +122,6 @@ NODE_ENV=development
 npm run dev
 
 5. Open your browser and navigate to http://localhost:3000
+
 
 
