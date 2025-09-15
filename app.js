@@ -10,7 +10,7 @@ const connectDB = require("./config/mongoose.connection");
 
 const app = express();
 
-// Connect to database
+
 
 
 // Middleware
