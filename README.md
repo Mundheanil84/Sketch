@@ -22,7 +22,20 @@ A full-stack e-commerce platform for selling premium bags, built with Node.js, E
 
 Sketch is a full-featured e-commerce website specializing in premium bags. The platform allows customers to browse products, apply filters, manage their shopping cart, and complete secure purchases. Administrators have access to a dedicated dashboard for managing products, categories, pricing, and order tracking.
 
-**Development Period**: November 2024
+## 🖼️ Screenshots Preview
+
+### 🏠 Homepage
+![Homepage](https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+
+### 🎒 Product Listing
+![Products](https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+
+### 🛒 Shopping Cart
+![Cart](https://images.unsplash.com/photo-1607083206968-13611e3c69c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+
+### ⚙️ Admin Dashboard
+![Admin Dashboard](https://images.unsplash.com/photo-1605902711622-cfb43c4437d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+
 
 ## Features
 
@@ -110,4 +123,5 @@ NODE_ENV=development
 npm run dev
 
 5. Open your browser and navigate to http://localhost:3000
+
 
